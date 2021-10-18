@@ -1,0 +1,1 @@
+DELETE FROM veterinary_clinic_test.pets WHERE 1=1;

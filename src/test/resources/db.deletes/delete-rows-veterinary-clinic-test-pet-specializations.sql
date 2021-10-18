@@ -1,0 +1,1 @@
+DELETE FROM veterinary_clinic_test.pet_specializations WHERE 1=1;

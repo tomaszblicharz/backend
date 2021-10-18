@@ -1,0 +1,1 @@
+DELETE FROM veterinary_clinic_test.doctors WHERE 1=1;

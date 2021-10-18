@@ -1,0 +1,10 @@
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (1, 'Adam', 'Nowinski', '1234567891', 40, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (2, 'Kasia', 'Nowiejska', '1234567892', 40, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (3, 'Arek', 'Waski', '1234567893', 50, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (4, 'Malgorzata', 'Kanclerz', '1234567894', 60, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (5, 'Marietta', 'Kubera', '1234567895', 20, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (6, 'Patrycja', 'Wawrzyniak', '1234567896', 10, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (7, 'Tomek', 'Burek', '1234567897', 20, false);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (8, 'Filip', 'Bonk', '1234567898', 30, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (9, 'Andrzej', 'Kubis', '1234567899', 45, true);
+INSERT INTO veterinary_clinic_test.doctors (id, first_name, last_name, nip, salary_for_hour, status) VALUES (10, 'Pola', 'Radosz', '1234567890', 18, true);
